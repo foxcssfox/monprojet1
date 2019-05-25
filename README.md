@@ -1,6 +1,4 @@
-## Bienvenu dans mon éditeur de texte en Javascript
-
-You can use the [editor on GitHub](https://github.com/foxcssfox/monprojet1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenu dans mon éditeur de texte en Javascript [Modifier via GitHub](https://github.com/foxcssfox/monprojet1/edit/master/README.md) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
