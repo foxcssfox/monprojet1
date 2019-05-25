@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenu dans mon éditeur de texte en Javascript
 
 You can use the [editor on GitHub](https://github.com/foxcssfox/monprojet1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
